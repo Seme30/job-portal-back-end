@@ -2,8 +2,8 @@
 
 ## Technologies used 
 
-  Spring Boot
-  Rest Controller
+  Spring Boot: 2.7.0 +
+  Rest Controller + 
   Java Persistence API with Hibernate 
   for Flutter Job Portal Mobile App
   
